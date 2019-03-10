@@ -16,6 +16,8 @@ function calculateRepetitions(primeFactors,max){
     }
   return count;
 }
+//https://www.geeksforgeeks.org/number-of-trailing-zeroes-in-base-b-representation-of-n/
+//http://cppalgo.blogspot.com/2011/04/1.html марсианские факториалы
 
 //найти max prime factor!!! 
 //let max = Math.max.apply(null, primeFactors); 
